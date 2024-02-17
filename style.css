@@ -29,7 +29,7 @@ nav:hover{
     opacity: 0;
     animation: show 1s linear forwards;
 }
-video{
+iframe{
     width: 400px;
     height: 400px;
     transition: all 1s ease;
@@ -149,7 +149,7 @@ ul li a:hover{
         bottom: 2vh;
         right: 5vw;
         height: 300px;
-        video{
+        iframe{
             height: 300px;
         }
     }
@@ -225,7 +225,7 @@ ul li a:hover{
         bottom: -2vh;
         right: 15vw;
         height: 300px;
-        video{
+        iframe{
             height: 300px;
         }
     }
